@@ -1,6 +1,55 @@
-# 💫 About Me:
-Manav Malik<br>AI & Data Science Engineer in Progress<br><br>I build practical AI systems that move beyond theory and into working applications.<br><br>My focus is on designing end-to-end machine learning solutions — from data preprocessing and model development to deployment and real-time interaction.<br><br>Core Areas:<br><br>Machine Learning & Predictive Modeling<br><br>Natural Language Processing (BERT, SpaCy, NLTK)<br><br>Real-time AI Applications<br><br>Data Analysis & Visualization<br><br>Technical Stack:<br>Python, SQL, Scikit-learn, TensorFlow, PyTorch, XGBoost<br>Streamlit, REST APIs, Git, Tableau, Power BI<br><br>Selected Work:<br><br>Trained predictive models on 400K+ legal documents<br><br>Built an NLP-based emotional support system with real-time inference<br><br>Developed a face recognition system achieving 92% accuracy<br><br>Designed interactive AI tools with production-ready interfaces<br><br>I value clean, reproducible code and systems that can be demonstrated, tested, and improved.<br><br>Currently exploring scalable ML systems and applied AI for business intelligence.
+# Manav Malik
 
+**AI & Data Science Engineer in Progress**  
+Building systems that turn data into decisions.
+
+---
+
+## 🚀 What I Do
+
+I focus on practical machine learning — the kind that moves from notebooks to working systems.
+
+- End-to-end ML pipelines (data → model → deployment)
+- NLP systems using BERT, SpaCy, and NLTK
+- Real-time AI applications
+- Predictive modeling on large-scale datasets (400K+ documents)
+
+---
+
+## 🛠 Tech Stack
+
+**Languages & Core**
+Python • SQL  
+
+**Machine Learning**
+Scikit-learn • TensorFlow • PyTorch • XGBoost  
+
+**Tools & Deployment**
+Streamlit • REST APIs • Git • Tableau • Power BI  
+
+---
+
+## 📌 Selected Work
+
+- 🔹 Trained predictive models on 400K+ legal documents  
+- 🔹 Built an NLP-based emotional support system with real-time inference  
+- 🔹 Developed a face recognition system achieving 92% accuracy  
+- 🔹 Designed interactive AI tools with production-ready interfaces  
+
+---
+
+## 🧠 Philosophy
+
+I care about:
+- Clean, reproducible code  
+- Measurable impact  
+- Systems that actually ship  
+
+Code that runs is worth more than code that looks impressive.
+
+---
+
+Currently exploring scalable ML systems and applied AI for business intelligence.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/man._.av/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manav-mallik/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manav.mallik.ai@gmail.com) 
